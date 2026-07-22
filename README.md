@@ -36,15 +36,15 @@
 
 <p align="left">
 
-<a href="https://github.com/HKRAmarSingh19">
+<a href="https://github.com/sankalshukla700-art">
 <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/hkr-amar-singh-270246308">
+<a href="https://linkedin.com/in/sankalp-shukla-6888b237a">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:hkramarsingh@gmail.com">
+<a href="mailto:sankalshukla700@gmail.com">
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45"/>
 </a>
 
@@ -78,13 +78,13 @@
 
 <p align="left">
 
-<a href="https://leetcode.com/u/HkrAmarSingh/">
+<a href="https://leetcode.com/u/sankalp_700/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.codechef.com/users/hkramar73">
+<!-- <a href="https://www.codechef.com/users/hkramar73">
 <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
+</a> -->
 
 <!-- <a href="https://www.geeksforgeeks.org/user/YOUR_GFG_USERNAME/">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
@@ -97,12 +97,12 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HKRAmarSingh19&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HKRAmarSingh19&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sankalshukla700-art&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sankalpshukla700-art&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HKRAmarSingh19&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=sankalpshukla700-art&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -134,7 +134,7 @@
 # 📈 GitHub Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HKRAmarSingh19&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sankalpshukla700-art&theme=tokyo-night"/>
 </p>
 
 ---
@@ -142,7 +142,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HKRAmarSingh19/HKRAmarSingh19/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/sankalpshukla700-art/sankalpshukla700-art/output/snake.svg" alt="snake animation" />
 </p>
 
 ---
