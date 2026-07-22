@@ -142,7 +142,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sankalpshukla700-art/sankalpshukla700-art/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/sankalpshukla700-art/sampgit/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
