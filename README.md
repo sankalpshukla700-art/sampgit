@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm SANKAL SHUKLA</h1>
 
-<h3 align="center">B.Tech CSE Student | PYTHON Developer | MERN Stack Learner | DSA Enthusiast</h3>
+<h3 align="center">B.Tech CSE Student | Python Developer | MERN Stack Learner | DSA Enthusiast</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java_Developer-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
