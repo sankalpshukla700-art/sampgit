@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=SANKALP%20SHUKLA&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Java%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=60" />
 </p>
 
-<h1 align="center">Hi 👋, I'm SANKAL SHUKLA</h1>
+<h1 align="center">Hi 👋, I'm SANKALP SHUKLA</h1>
 
 <h3 align="center">B.Tech CSE Student | Python Developer | MERN Stack Learner | DSA Enthusiast</h3>
 
